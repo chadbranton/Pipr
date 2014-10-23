@@ -1,0 +1,51 @@
+﻿
+Testing Host 68.118.109.32
+	found OPEN PORT 53.
+
+All in total, 1 port that is open.
+that is port 53.
+The test took 3.8 seconds. 
+
+Testing Host j b o locally grown . org.
+	found OPEN PORT 21.
+	found OPEN PORT 80.
+	found OPEN PORT 443.
+All in total, 3 ports that are open.
+they are ports 21, 80, 443.
+The test took 3.7 seconds 
+
+Testing Host snapstudent.com 
+	found OPEN PORT 21.
+	found OPEN PORT 25.
+	found OPEN PORT 53.
+	found OPEN PORT 80.
+	found OPEN PORT 110.
+	found OPEN PORT 143.
+	found OPEN PORT 443.
+	found OPEN PORT 465.
+	found OPEN PORT 587.
+	found OPEN PORT 995.
+	found OPEN PORT 993.
+All in total, there were 11 port(s) that are open.
+They are ports 21, 25, 53, 80, 110, 143, 443, 465, 587, 993, 995.
+The test took 3.4 seconds 
+
+
+Testing Host 127.0.0.1
+	found OPEN PORT 80.
+	found OPEN PORT 135.
+	found OPEN PORT 445.
+	found OPEN PORT 843.
+All in total, there were 4 port(s) that are open.
+They are ports 80, 135, 445, 843
+The test took 3.331807 seconds 
+
+
+Testing Host 192.168.1.1 
+	found OPEN PORT 23
+	found OPEN PORT 53
+	found OPEN PORT 80
+	found OPEN PORT 443
+All in total there were 4 port(s) that are open.
+[23, 53, 80, 443]
+The test took 3.503950 seconds 

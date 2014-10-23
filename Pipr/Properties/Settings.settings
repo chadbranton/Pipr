@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Pipr.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GmailUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">branton@goldmail.etsu.edu</Value>
+    </Setting>
+    <Setting Name="GmailPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Newlife0515</Value>
+    </Setting>
+    <Setting Name="User" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Chad</Value>
+    </Setting>
+    <Setting Name="Alarm" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12:29pm</Value>
+    </Setting>
+    <Setting Name="AClockEnbl" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FacebookPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.NETforlife</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">etsu0515</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

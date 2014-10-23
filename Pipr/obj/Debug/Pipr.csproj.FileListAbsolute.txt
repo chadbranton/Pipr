@@ -1,0 +1,184 @@
+c:\users\sarah frost\documents\visual studio 2013\Projects\Pipr\Pipr\bin\Debug\Pipr.exe.config
+c:\users\sarah frost\documents\visual studio 2013\Projects\Pipr\Pipr\bin\Debug\Pipr.exe
+c:\users\sarah frost\documents\visual studio 2013\Projects\Pipr\Pipr\bin\Debug\Pipr.pdb
+c:\users\sarah frost\documents\visual studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.csprojResolveAssemblyReference.cache
+c:\users\sarah frost\documents\visual studio 2013\Projects\Pipr\Pipr\obj\Debug\MainWindow.baml
+c:\users\sarah frost\documents\visual studio 2013\Projects\Pipr\Pipr\obj\Debug\MainWindow.g.cs
+c:\users\sarah frost\documents\visual studio 2013\Projects\Pipr\Pipr\obj\Debug\App.g.cs
+c:\users\sarah frost\documents\visual studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr_MarkupCompile.cache
+c:\users\sarah frost\documents\visual studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.g.resources
+c:\users\sarah frost\documents\visual studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Properties.Resources.resources
+c:\users\sarah frost\documents\visual studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.csproj.GenerateResource.Cache
+c:\users\sarah frost\documents\visual studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.exe
+c:\users\sarah frost\documents\visual studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.pdb
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\obj\Debug\Pipr_MarkupCompile.lref
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr_Content.g.cs
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\IronPython.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\IronPython.Modules.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\IronPython.SQLite.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\IronPython.Wpf.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\IronPython.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\IronPython.Modules.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\IronPython.SQLite.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\IronPython.Wpf.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\Pipr.exe.config
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\obj\Debug\Pipr.exe
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\obj\Debug\Pipr.pdb
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\Pipr.exe
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\Pipr.pdb
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\IronPython.dll
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\IronPython.Modules.dll
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\IronPython.SQLite.dll
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\IronPython.Wpf.dll
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\Microsoft.Scripting.AspNet.dll
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\IronPython.xml
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\IronPython.Modules.xml
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\IronPython.SQLite.xml
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\IronPython.Wpf.xml
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\Microsoft.Scripting.AspNet.xml
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\obj\Debug\Pipr.csprojResolveAssemblyReference.cache
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\obj\Debug\CustomCommands.baml
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\obj\Debug\CustomCommands.g.cs
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\obj\Debug\MainWindow.g.cs
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\obj\Debug\App.g.cs
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\obj\Debug\Pipr_Content.g.cs
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\obj\Debug\Pipr_MarkupCompile.cache
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\obj\Debug\Pipr_MarkupCompile.lref
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\obj\Debug\MainWindow.baml
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\obj\Debug\Pipr.g.resources
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\obj\Debug\Pipr.Form1.resources
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\obj\Debug\Pipr.Properties.Resources.resources
+C:\Users\Sarah Frost\Desktop\Pipr\Pipr\obj\Debug\Pipr.csproj.GenerateResource.Cache
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\script.py
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\EntityFramework.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\EntityFramework.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Migrations.addShellCommands.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Migrations.addDefaultCommands.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.ShellCommands.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.DefaultCommands.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Migrations.addSocialCommands.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.SocialCommands.resources
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\Microsoft.OData.Client.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\Microsoft.OData.Core.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\Microsoft.Office365.Exchange.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\Microsoft.Office365.OAuth.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\Microsoft.Office365.OAuth.WindowsForms.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\Microsoft.Spatial.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\Microsoft.OData.Client.xml
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\Microsoft.OData.Core.xml
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\Microsoft.Spatial.xml
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\de\Microsoft.OData.Client.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\es\Microsoft.OData.Client.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\fr\Microsoft.OData.Client.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\it\Microsoft.OData.Client.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\ja\Microsoft.OData.Client.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\ko\Microsoft.OData.Client.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\ru\Microsoft.OData.Client.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\zh-Hans\Microsoft.OData.Client.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\zh-Hant\Microsoft.OData.Client.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\de\Microsoft.OData.Core.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\es\Microsoft.OData.Core.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\it\Microsoft.OData.Core.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\de\Microsoft.Spatial.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\es\Microsoft.Spatial.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\fr\Microsoft.Spatial.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\it\Microsoft.Spatial.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\ja\Microsoft.Spatial.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\ko\Microsoft.Spatial.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\ru\Microsoft.Spatial.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\Sarah Frost\documents\visual studio 2013\Projects\PIPR\Pipr\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\GData.Spreadsheets.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.Core.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.GData.Analytics.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.GData.Calendar.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.GData.Client.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.GData.Contacts.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.GData.ContentForShopping.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.GData.Extensions.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.GData.Photos.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.GData.YouTube.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\log4net.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Zlib.Portable.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.pdb
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.Core.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\log4net.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Zlib.Portable.pdb
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.csproj.App.config
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.Tasks.v1.dll
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.Tasks.v1.pdb
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\bin\Debug\Google.Apis.Tasks.v1.xml
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Migrations.addTasks.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Migrations.addWords.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Migrations.addCasedWords.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Migrations.addSenses.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Migrations.addSynsets.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Migrations.addLinkTypes.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Migrations.addSemLinks.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Migrations.addLexLinks.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Migrations.addPostTypes.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Migrations.changePosTypes.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Tasks.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Migrations.addDueDateToTask.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Migrations.changeToDateTime.resources
+C:\Users\Sarah Frost\Documents\Visual Studio 2013\Projects\Pipr\Pipr\obj\Debug\Pipr.Migrations.deleteDate.resources

@@ -1,0 +1,15 @@
+﻿I'd like to add a command
+Update commands
+say hello
+what is todays weather
+My documents
+what is my name
+what is your name
+exit
+port scanner
+hold on piper
+piper stop talking
+piper resume talking
+piper play pandora
+goodnight piper
+run port scanner
